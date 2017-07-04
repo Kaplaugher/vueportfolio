@@ -10,7 +10,7 @@
             <router-link to="/projects"><a class="nav-link">Projects</a></router-link>
         </li>
         <li class="nav-item">
-            <a class="nav-link disabled" href="#">Contact</a>
+            <router-link to="/contact"><a class="nav-link">Contact</a></router-link>
         </li>
     </ul>
 </template>
