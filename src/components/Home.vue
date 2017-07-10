@@ -9,16 +9,25 @@
 
 </template>
 <style scoped>
+
    .jumbotron {
        background-image: url("../../src/img/cover.jpg");
        background-size: cover;
        text-align: center;
        color: white;
-       margin-top: 5rem;
+       margin-top: 2rem;
    }
     .jumbotron a {
         color: #fff;
     }
+   h1 {
+       font-family: 'Montserrat', sans-serif;
+       font-weight: bold;
+       color: dodgerblue;
+   }
+   p {
+       font-family: 'Open Sans', sans-serif;
+   }
     
 </style>
 
